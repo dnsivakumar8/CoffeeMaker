@@ -4,7 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="~/Downloads/CoffeeMaker/.venv" jdkType="Python SDK" />
+=======
+    <orderEntry type="jdk" jdkName="~/Documents/Software Measurement &amp; QA/CoffeeMaker/.venv" jdkType="Python SDK" />
+>>>>>>> check-ingredients
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings" />
